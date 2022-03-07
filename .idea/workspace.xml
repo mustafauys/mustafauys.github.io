@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b03c62e-0806-4c8a-858c-55102235ae17" name="Default" comment="slider fotoğraflar güncellendi">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hipo/images/mockups/02.png" beforeDir="false" afterPath="$PROJECT_DIR$/hipo/images/mockups/02.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sunshine-html-template" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="825" />
+  </component>
+  <component name="ProjectId" id="1Z7e8rzLijXTYxFININ9CCAV17G" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hipo/images/mockups" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hipo/images/mockups" />
+      <recent name="$PROJECT_DIR$/hipo/images/slider" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images/portfolio" />
+      <recent name="$PROJECT_DIR$/images/portfolio/portfolio_details" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b03c62e-0806-4c8a-858c-55102235ae17" name="Default" comment="" />
+      <created>1505676947996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505676947996</updated>
+      <workItem from="1505676949394" duration="2365000" />
+      <workItem from="1506599662414" duration="11903000" />
+      <workItem from="1509662346864" duration="5380000" />
+      <workItem from="1509966088582" duration="3414000" />
+      <workItem from="1512644913715" duration="1868000" />
+      <workItem from="1513172541647" duration="423000" />
+      <workItem from="1517421307626" duration="595000" />
+      <workItem from="1518046487254" duration="684000" />
+      <workItem from="1518050943600" duration="1520000" />
+      <workItem from="1526630303100" duration="1131000" />
+      <workItem from="1527836765416" duration="689000" />
+      <workItem from="1528433852862" duration="1503000" />
+      <workItem from="1528436856861" duration="980000" />
+      <workItem from="1528455962119" duration="513000" />
+      <workItem from="1537166875664" duration="553000" />
+      <workItem from="1537352136162" duration="1206000" />
+      <workItem from="1538487424330" duration="918000" />
+      <workItem from="1538550491460" duration="344000" />
+      <workItem from="1538553848880" duration="208000" />
+      <workItem from="1538556294710" duration="276000" />
+      <workItem from="1538572366774" duration="612000" />
+      <workItem from="1584194404491" duration="1373000" />
+    </task>
+    <task id="LOCAL-00001" summary="hippocampus web sayfası düzenlendi">
+      <created>1584195198695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584195198695</updated>
+    </task>
+    <task id="LOCAL-00002" summary="slider fotoğraflar güncellendi">
+      <created>1584195498121</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584195498121</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hippocampus web sayfası düzenlendi" />
+    <MESSAGE value="slider fotoğraflar güncellendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="slider fotoğraflar güncellendi" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="30" key="CommitChangelistDialog2" timestamp="1584195497691">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="304" y="30" key="CommitChangelistDialog2/0.23.1440.814@0.23.1440.814" timestamp="1584195497691" />
+    <state x="383" y="71" width="673" height="708" key="find.popup" timestamp="1584194829821">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="383" y="71" width="673" height="708" key="find.popup/0.23.1440.814@0.23.1440.814" timestamp="1584194829821" />
+  </component>
+</project>

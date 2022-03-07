@@ -1,0 +1,164 @@
+/*
+* LMPixels templates demo panel
+* Author: LMPixels (Linar Miftakhov)
+* Author URL: http://themeforest.net/user/lmpixels
+* Version: 1.0
+*/
+
+a.lm-demo-panel-switcher {
+	position: fixed;
+	background-color: #fff;
+	font-size: 18px;
+	line-height: 1em;
+	text-decoration: none;
+	color: #fff;
+	padding: 10px 12px;
+	top: 120px;
+	border: 1px solid #d5d5d5;
+	z-index:100;
+	outline: 0;
+	-webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+	-webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    -o-transform: translateZ(0);
+    transform: translateZ(0);
+}
+
+a.lm-demo-panel-switcher i {
+	color: #041C32;
+	-webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+a.lm-demo-panel-switcher:hover i {
+	 -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+
+a.lm-demo-panel-switcher.left {
+	left: 0;
+	border-left: 0;
+	border-top-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+a.lm-demo-panel-switcher.right {
+	right: 0;
+	border-right: 0;
+	border-bottom-left-radius: 5px;
+	border-top-left-radius: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	-moz-border-radius-topleft: 5px;
+	-webkit-border-bottom-left-radius:5px;
+	-webkit-border-top-left-radius: 5px;
+}
+
+.lm-demo-panel {
+	display:  block;
+	position: absolute;
+	top: 168px;
+	position: fixed;
+	opacity: 0;
+	visibility: hidden;
+	background: #fff;
+	width: 160px;
+	height: auto;
+	z-index:1999;
+	padding: 15px 15px 20px;
+	border: 1px solid #d5d5d5;
+	-webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.lm-demo-panel.left {
+	left: 0;
+	margin-left: -160px;
+	border-left: 0;
+	-webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.lm-demo-panel.right {
+	right: 0;
+	margin-right: -160px;
+	border-right: 0;
+}
+
+.lm-demo-panel.left.active,
+.lm-demo-panel.right.active {
+	margin-left: 0;
+	margin-right: 0;
+	opacity: 1;
+	visibility: visible;
+	-webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.lm-demo-panel .demo-panel-title {
+	font-size: 16px;
+	text-align: center;
+	color: inherit;
+	margin-bottom: 12px;
+}
+
+/* preview */
+.lm-demo-panel .preview {
+	position: relative;
+	float: left;
+	width: 29%;
+	height: 29%;
+	margin: 2%;
+	padding: 1px;
+}
+
+.lm-demo-panel .preview.current {
+
+}
+
+.lm-demo-panel .current {
+	position: absolute;
+  	display:inline-block;
+  	left: 50%;
+  	top: 50%;
+  	margin-top: -4px;
+  	margin-left: -2px;
+}
+  
+.lm-demo-panel .current:after{
+    content: '';
+    display: block;
+    width: 5px;
+    height: 8px;
+    border: solid #fff;
+    border-width: 0 2px 2px 0;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+#style_switcher_panel h4{
+	margin-top: 10px;
+	margin-bottom: 2px;
+}
+
+#color1 { background: #041C32; }
+#color2 { background: #e65959; }
+#color3 { background: #34c7a9; }
+#color4 { background: #a878ff; }
+#color5 { background: #f9966f; }
+#color6 { background: #2fc0d1; }
