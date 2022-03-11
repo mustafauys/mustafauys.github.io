@@ -1024,7 +1024,7 @@ ul.social-links li:last-child a {
   font-weight: 300;
   line-height: 1.1em;
   margin: 0 0 3px;
-  background-color: #9bd952;
+  background-color: #903749;
   padding: 5px 8px 5px 30px;
   margin-left: -30px;
 }
@@ -1038,7 +1038,7 @@ ul.social-links li:last-child a {
   left: 0px;
   content: "";
   border-bottom: 5px solid transparent;
-  border-right: 5px solid #8cc44b;;
+  border-right: 5px solid #903749;;
 }
 
 .event-name {
