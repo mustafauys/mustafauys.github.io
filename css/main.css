@@ -1,30 +1,3 @@
-/* =============================================================================
-
-1. Fonts
-2. General styles (Buttons, Inputs, Typography)
-3. Page loadig animation
-4. Subpages changer
-5. Site header (sidebar)
-6. Site content
-7. Subpages
-  7.1. Home subpage
-  7.2. About Me subpage
-  7.3. Resume subpage
-  7.4. Portfolio subpage
-  7.5. Blog subpage
-  7.6. Contact subpage
-8. Sliders (testimonials & portfolio carousels)
-9. Portfolio Full info page
-10. Blog post page
-11. Media Queries
-
-============================================================================= */
-
-
-/* ============================================================================= 
-1. Fonts
-============================================================================= */
-/* 7 stroke icons font by Pixeden */
 @import url('pe-icon-7-stroke.css'); /* Full icons list: http://themes-pixeden.com/font-demos/7-stroke/index.html */
 
 /* Font awesome icons font */
