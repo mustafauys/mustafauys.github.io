@@ -1141,7 +1141,7 @@ ul.social-links li:last-child a {
 }
 
 .portfolio-grid figure {
-  width: 25%;
+  width: 15%;
   float: left;
   padding: 0.5em;
 }
@@ -1272,7 +1272,7 @@ ul.social-links li:last-child a {
   margin: 0 -1em;
 }
 .blog-masonry .item {
-  width: 50%;
+  width: 30%;
   float: left;
   padding: 1em;
 }
