@@ -1,0 +1,76 @@
+/* Blog Post Page Styles */
+.blog-post-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    border-radius: 15px;
+    animation: fadeIn 1s ease;
+}
+
+.blog-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.blog-meta {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 20px;
+}
+
+.blog-image {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.blog-content {
+    line-height: 1.8;
+    color: #444;
+    font-size: 1.1rem;
+}
+
+.back-button {
+    display: inline-block;
+    padding: 10px 25px;
+    background: #304CFD;
+    color: #fff;
+    border-radius: 25px;
+    text-decoration: none;
+    transition: background 0.3s ease;
+    margin-top: 30px;
+}
+
+.back-button:hover {
+    background: #1e3fd4;
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .blog-post-container {
+        margin: 20px;
+        padding: 15px;
+    }
+
+    .blog-image {
+        height: 300px;
+    }
+}
